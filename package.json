@@ -1,0 +1,21 @@
+{
+  "name": "learning-es6",
+  "version": "1.0.0",
+  "description": "Samples that demonstrate the features introduced in ES6",
+  "main": "index.js",
+  "dependencies": {
+    "karma": "^1.3.0",
+    "karma-chrome-launcher": "^2.0.0"
+  },
+  "devDependencies": {
+    "jasmine-core": "^2.5.2",
+    "karma-jasmine": "^1.0.2"
+  },
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akhilesh-bangalore/Learning-EcmaScript-2015.git"
+  }
+}
